@@ -1,1 +1,1 @@
-# React + Tailwind APPgit
+# React + Tailwind APP
